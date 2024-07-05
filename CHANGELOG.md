@@ -1,5 +1,12 @@
 # Changelog
 
+## [12.26.1](https://github.com/LazyVim/LazyVim/compare/v12.26.0...v12.26.1) (2024-07-05)
+
+
+### Bug Fixes
+
+* **lualine:** use the new ministarter file type to disable in mini.starter ([#3929](https://github.com/LazyVim/LazyVim/issues/3929)) ([330d2e4](https://github.com/LazyVim/LazyVim/commit/330d2e470b79eb31f884685b331d5d255776de90))
+
 ## [12.26.0](https://github.com/LazyVim/LazyVim/compare/v12.25.0...v12.26.0) (2024-07-05)
 
 
